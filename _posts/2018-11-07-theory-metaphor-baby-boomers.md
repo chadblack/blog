@@ -79,7 +79,11 @@ social liberation.
 I came to freudo-marxism not through Reich, but originally through
 Marcuse. After finishing college, I de-converted from evangelical
 Christianity, and Marcuse's *Eros and Civilization* (1955), published the
-same year as Fromm's *The Sane Society*. *E&C* stood aside Norman Brown's
+same year as Fromm's *The Sane Society*, opened my mind to a distinctly new
+vision of liberation. My deconversion was connected to liberation
+theology and social justice, and Marcuse helped me connect those things to my
+own desire to accept desire, and move beyond the guilt-ridden repression
+evangelical prudery.  *E&C* stood aside Norman Brown's
 *Life Against Death* (1959) as a serious popularizer of a Freudian theory of
 non-repressive society. To a young man suffering the consequences of
 a highly repressive evangelicalism, *E&C* was, if you will, quite
