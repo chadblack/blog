@@ -12,7 +12,7 @@ some the decisions. First up, my plan for breakfasts. I'm a creature of habit
 off the trail when it comes to breakfast, and this is an adaption of what I eat
 most days, only fixed for the trail.
 
-![bob](https://user-images.githubusercontent.com/1526219/57310149-4b876000-70b7-11e9-92fd-5dcb035603f8.jpg){:align="center"}
+![bob](https://user-images.githubusercontent.com/1526219/57310149-4b876000-70b7-11e9-92fd-5dcb035603f8.jpg){: align-center}
 
 | 70g Bob's Red Mill Old Country Style Muesli (280 cal.)
 | 1 tbsp PB2 Powdered Almond Butter (25 cal.)
