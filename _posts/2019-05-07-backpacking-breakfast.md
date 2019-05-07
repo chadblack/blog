@@ -12,12 +12,16 @@ some the decisions. First up, my plan for breakfasts. I'm a creature of habit
 off the trail when it comes to breakfast, and this is an adaption of what I eat
 most days, only fixed for the trail.
 
+![bob](https://user-images.githubusercontent.com/1526219/57310149-4b876000-70b7-11e9-92fd-5dcb035603f8.jpg)
+
 | 70g Bob's Red Mill Old Country Style Muesli (280 cal.)
 | 1 tbsp PB2 Powdered Almond Butter (25 cal.)
 | 1 tbsp chia seeds (60 cal.)
 | Trader Joe's freeze dried fruit (strawberry, raspberry, and/or blueberry) (negligible)
 | optional -- 1 tbsp TJ's Roasted Cocoa Nibs (50 cal.)
 | optional -- nuts (can be quite a bit if you need it.)
+
+
 
 Put these ingredients in a Stand and Fill Ziploc Slider. On trail, just add
 a few ounces of water, give it a good shake, and let it sit for a bit for the
