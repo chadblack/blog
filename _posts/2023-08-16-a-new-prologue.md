@@ -6,7 +6,7 @@ What did it mean to be *eloquent* in 18th-century Quito? Above all else
 it meant being capable of demonstrating, or rather of performing how
 well read you were. It meant name-dropping, and preferably from Greek and 
 Roman sources. That's part of what Cervantes was mocking in his narrator's
-prologue to *Don Quixote*, from whence this came:
+prologue to *Don Quixote*, from whence this came:**
 
 
 A prologue for my
