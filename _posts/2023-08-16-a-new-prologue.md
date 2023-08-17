@@ -3,8 +3,8 @@
 **I originally published this on my old blog, [parezcoydigo](https://parezcoydigo.wordpress.com/2011/08/08/a-new-prologue/). 
 I was reminded of it working on the question of eloquence for an article. 
 What did it mean to be *eloquent* in 18th-century Quito? Above all else
-it meant being capable of demonstrating, or rather of performing how
-well read you were. It meant name-dropping, and preferably from Greek and 
+it meant being capable of demonstrating, or rather of performing, how
+well read you were. It meant name-dropping from national, Greek, and 
 Roman sources. That's part of what Cervantes was mocking in his narrator's
 prologue to *Don Quixote*, from whence this came:**
 
